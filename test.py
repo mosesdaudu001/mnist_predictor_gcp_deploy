@@ -16,7 +16,7 @@ print(resp.json())
 # from flask import Flask, request, jsonify
 
 # storage_client = storage.Client()
-# bucket = storage_client.get_bucket('mnist-moses-bucket')
+# bucket = storage_client.get_bucket('mnist-moses-buc')
 # blob_classifier = bucket.blob('models/nn.h5')
 # blob_classifier.download_to_filename('tmp/nn.h5')
 
