@@ -20,7 +20,4 @@ gcloud run deploy --image gcr.io/idyllic-kiln-407416/index --platform managed
 ### Test
 - Test the code with `test/test.py`
 
-### Watch the video tutorial
-- How To Deploy ML Models With Google Cloud Run
 
-[![Alt text](https://img.youtube.com/vi/vieoHqt7pxo/hqdefault.jpg)](https://youtu.be/vieoHqt7pxo)
