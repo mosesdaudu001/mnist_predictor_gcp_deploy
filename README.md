@@ -13,8 +13,8 @@
 
 ### 5. Cloud build & deploy
 ```
-gcloud builds submit --tag gcr.io/idyllic-kiln-407416/index
-gcloud run deploy --image gcr.io/idyllic-kiln-407416/index --platform managed
+gcloud builds submit --tag gcr.io/random-developments/index
+gcloud run deploy --image gcr.io/random-developments/index --platform managed
 ```
 
 ### Test
