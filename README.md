@@ -19,7 +19,3 @@ gcloud run deploy --image gcr.io/random-developments/index --platform managed
 
 ### Test
 - Test the code with `test/test.py`
-
-- last try
-
-
