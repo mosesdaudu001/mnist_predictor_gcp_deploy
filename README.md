@@ -23,3 +23,4 @@ God of your promise
 God of your salvation
 light of the world
 Since you left the grave, so will I
+So will I
