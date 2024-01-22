@@ -19,5 +19,4 @@ gcloud run deploy --image gcr.io/random-developments/index --platform managed
 
 ### Test
 - Test the code with `test/test.py`
-
-so willl i
+God of your promise
