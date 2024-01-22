@@ -21,3 +21,4 @@ gcloud run deploy --image gcr.io/random-developments/index --platform managed
 - Test the code with `test/test.py`
 God of your promise
 God of your salvation
+light of the world
